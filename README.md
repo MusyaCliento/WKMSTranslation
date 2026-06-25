@@ -24,7 +24,7 @@ winhttp.dll
 
 ## 2. Установка перевода
 1. Скачайте последний релиз перевода:
-   [Скачать WKMSTranslation](https://github.com/MusyaCliento/WKMSTranslation/releases) *(здесь всегда можно найти актуальную версию)*.
+   [Скачать WKMSTranslation](https://github.com/MusyaCliento/WKMSTranslation/releases)
 2. Распакуйте содержимое архива с переводом по следующему пути:
    `White Knuckle\BepInEx\plugins\WKMSTranslation`
 
